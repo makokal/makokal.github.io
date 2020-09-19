@@ -13,7 +13,8 @@
       <pubDate>Sat, 19 Sep 2020 12:00:57 -0500</pubDate>
       
       <guid>/publications/</guid>
-      <description>You can find an up to date list of my publications on Google Scholar</description>
+      <description>You can find an up to date list of my publications on Google Scholar
+ B. Okal and K. O. Arras, “Learning socially normative robot navigation behaviors with Bayesian inverse reinforcement learning,” in Proc. of IEEE International Conference on Robotics and Automation (ICRA), May 2016. B. Okal, R. Triebel, and K. O. Arras, “Real-time social activity detection for mobile service robots,” in Proc. of IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN), August 2016.</description>
     </item>
     
     <item>
@@ -31,7 +32,7 @@
       <pubDate>Fri, 18 Sep 2020 23:08:17 -0500</pubDate>
       
       <guid>/about/</guid>
-      <description>I am currently working at Voyage Auto building decision making ingredients for autonomous driving.
+      <description>I am currently working at Voyage Auto building decision making ingredients for autonomous driving. I design and build software for behavior planning, predictions and remote discrete assistance.
 Previously, I was at Apple SPG building autonomous systems, and before that I was conducting research on normative navigation behaviors for mobile service robots at the University of Freiburg as part of my PhD studies. In the more distant past, I have been fortunate to work in a number of labs including DFKI, the Manipulation lab at RI-CMU, TU-Munich, Idiap research institute among others.</description>
     </item>
     
