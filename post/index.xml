@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Billy Okal</title>
-    <link>http://makokal.github.io/post/</link>
+    <link>http://makokal.com/post/</link>
     <description>Recent content in Posts on Billy Okal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2020 23:14:46 -0500</lastBuildDate><atom:link href="http://makokal.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 23:14:46 -0500</lastBuildDate><atom:link href="http://makokal.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Back to Blogging</title>
-      <link>http://makokal.github.io/post/back-to-blogging/</link>
+      <link>http://makokal.com/post/back-to-blogging/</link>
       <pubDate>Fri, 18 Sep 2020 23:14:46 -0500</pubDate>
       
-      <guid>http://makokal.github.io/post/back-to-blogging/</guid>
+      <guid>http://makokal.com/post/back-to-blogging/</guid>
       <description>So I after almost a decade hiatus, I decided to get back to writing blogs again. This is in part triggered by trying to learn new languages in elixir/erlang and rust.</description>
     </item>
     

@@ -2,26 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Billy Okal</title>
-    <link>http://makokal.github.io/</link>
+    <link>http://makokal.com/</link>
     <description>Recent content on Billy Okal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2020 23:14:46 -0500</lastBuildDate><atom:link href="http://makokal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 23:14:46 -0500</lastBuildDate><atom:link href="http://makokal.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://makokal.com/publications/</link>
+      <pubDate>Sat, 19 Sep 2020 12:00:57 -0500</pubDate>
+      
+      <guid>http://makokal.com/publications/</guid>
+      <description>You can find an up to date list of my publications on Google Scholar</description>
+    </item>
+    
     <item>
       <title>Back to Blogging</title>
-      <link>http://makokal.github.io/post/back-to-blogging/</link>
+      <link>http://makokal.com/post/back-to-blogging/</link>
       <pubDate>Fri, 18 Sep 2020 23:14:46 -0500</pubDate>
       
-      <guid>http://makokal.github.io/post/back-to-blogging/</guid>
+      <guid>http://makokal.com/post/back-to-blogging/</guid>
       <description>So I after almost a decade hiatus, I decided to get back to writing blogs again. This is in part triggered by trying to learn new languages in elixir/erlang and rust.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://makokal.github.io/about/</link>
+      <link>http://makokal.com/about/</link>
       <pubDate>Fri, 18 Sep 2020 23:08:17 -0500</pubDate>
       
-      <guid>http://makokal.github.io/about/</guid>
+      <guid>http://makokal.com/about/</guid>
       <description>I am currently working at Voyage Auto building decision making ingredients for autonomous driving.
 Previously, I was at Apple SPG building autonomous systems, and before that I was conducting research on normative navigation behaviors for mobile service robots at the University of Freiburg as part of my PhD studies. In the more distant past, I have been fortunate to work in a number of labs including DFKI, the Manipulation lab at RI-CMU, TU-Munich, Idiap research institute among others.</description>
     </item>
